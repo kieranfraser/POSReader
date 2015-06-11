@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">POSReader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="servicedesc">Host Card Emulation</string>
+    <string name="title_activity_hcereader_mode">HCEReaderMode</string>
+    <string name="aiddescription">AID Description</string>
+</resources>
